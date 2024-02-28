@@ -1,3 +1,0 @@
-Step 1 - Make the website
-Step 2 - Deploy the website
-Step 3 - View the website
